@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\bin\Debug\hlr_checker.exe.config
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\bin\Debug\hlr_checker.exe
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\bin\Debug\hlr_checker.pdb
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\obj\Debug\hlr_checker.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\obj\Debug\hlr_checker.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\obj\Debug\hlr_checker.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\obj\Debug\hlr_checker.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\obj\Debug\hlr_checker.exe
+c:\users\user\documents\visual studio 2015\Projects\hlr_checker\hlr_checker\obj\Debug\hlr_checker.pdb
